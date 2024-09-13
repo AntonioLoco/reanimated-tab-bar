@@ -2,8 +2,7 @@
 # Reanimated TabBar
 
 A Reanimated TabBar based
-![video.gif](assets/video.gif)
-
+[video.mp4](assets/video.mp4)
 ## Run Locally
 
 Clone the project
