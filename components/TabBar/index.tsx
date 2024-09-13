@@ -1,6 +1,6 @@
 import { StyleSheet, View } from 'react-native';
 import { BottomTabBarProps } from '@react-navigation/bottom-tabs/src/types';
-import Animated, { BounceInDown, SlideInDown, StretchInX } from 'react-native-reanimated';
+import Animated, { StretchInX } from 'react-native-reanimated';
 import { TabItem } from './tab-item';
 import { useMemo } from 'react';
 import { splitArrayInHalf } from '../../utils/splitArrayInHalf';
