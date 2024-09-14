@@ -1,7 +1,8 @@
 
 # Reanimated TabBar
 
-A Reanimated TabBar based
+A Reanimated TabBar based on expo router
+
 ![video.gif](assets/video.gif)
 
 
